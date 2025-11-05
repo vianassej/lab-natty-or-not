@@ -6,7 +6,7 @@ Este projeto foi criado para o desafio “Natural ou Fake Natty?” e simula o d
 
 ## 🤖 Tecnologias Utilizadas
 * Amazon PartyRock: [para gerar cenários narrativos e análises estratégicas](https://partyrock.aws/u/jessicavylia/4_aennv3W/CharaForge%253A-Story-Character-Creator)
-* [ChatGPT] (https://chatgpt.com/) / [Copilot] (https://copilot.microsoft.com/) : para criar entradas do diário e reflexões filosóficas 
+* [ChatGPT](https://chatgpt.com/) / [Copilot](https://copilot.microsoft.com/) : para criar entradas do diário e reflexões filosóficas 
 * Midjourney / DALL·E: para ilustrar paisagens futuristas e ambientes alienígenas
 * Canva: para montar o visual do diário com estética digital
 * GitHub: para hospedar e compartilhar o projeto
