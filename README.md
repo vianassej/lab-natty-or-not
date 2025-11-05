@@ -1,5 +1,5 @@
-# Título do Projeto 
-ChronoViajante: Diário de um Viajante do Futuro
+# Título do Projeto: ChronoViajante: Diário de um Viajante do Futuro
+
 
 ## 📒 Descrição
 Este projeto foi criado para o desafio “Natural ou Fake Natty?” e simula o diário de bordo de um viajante do tempo em 2080. Utilizando IA generativa, o conteúdo mistura ficção científica com realismo emocional, explorando cidades futuristas, dilemas humanos e tecnologias emergentes. O objetivo é provocar a dúvida: isso foi feito por uma pessoa ou por uma máquina?
