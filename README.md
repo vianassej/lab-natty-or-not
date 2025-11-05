@@ -1,4 +1,4 @@
-# Título do Projeto: ChronoViajante: Diário de um Viajante do Futuro
+# ChronoViajante: Diário de um Viajante do Futuro
 
 
 ## 📒 Descrição
