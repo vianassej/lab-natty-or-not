@@ -23,5 +23,5 @@ Este projeto foi criado para o desafio “Natural ou Fake Natty?” e simula o d
 * Análise de viabilidade positiva gerada por IA, com plano de expansão e KPIs definidos.
 * Narrativa envolvente que mistura tecnologia, emoção e criatividade.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Criar algo “natty” com IA é como ensinar uma máquina a sentir. O maior desafio foi equilibrar automação com autenticidade, criando histórias que parecessem vividas. O uso do PartyRock foi essencial para estruturar o projeto como uma "startup" narrativa, mostrando que IA pode ser ferramenta de arte, educação e conexão humana.
